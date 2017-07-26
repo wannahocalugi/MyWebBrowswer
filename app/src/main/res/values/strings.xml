@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Web Browswer</string>
+    <string name="txtInstructions">Please choose a website</string>
+    <string name="txtUcsdExt">UCSD Extension</string>
+    <string name="test">test</string>
+    <string name="txtBlank" />
+    <string name="strYahoo">Yahoo</string>
+    <string name="strUrlYahoo"> https://www.yahoo.com</string>
+    <string name="strUrlUCSD"> https://extension.ucsd.edu/</string>
+    <string name="btnStr_Yahoo">Go</string>
+    <string name="btnStr_UCSD">Go</string>
+</resources>
